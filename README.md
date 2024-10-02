@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Michael-J1n
+- 👋 Hi, I’m Michael (Zhan) Jin (@Michael-J1n)
 - 👀 I’m interested in Computer Vision (CV)
 - 🌱 I’m currently learning Natural Language Processing (NLP)
 - 💞️ I’m looking to collaborate on ...
