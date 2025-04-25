@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Michael (Zhan) Jin (@Michael-J1n)
+- 👋 Hi, I’m Zhan (Michael) Jin (@Michael-J1n)
 - [Ad space for rent]
 - 📫 How to reach me: jzka1366@outlook.com
 - 😄 Pronouns: he/him/his
