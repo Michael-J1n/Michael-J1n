@@ -14,11 +14,7 @@
   <img src="https://img.shields.io/badge/-Java-181717?style=flat-square&logo=java&logoColor=f89820">
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Michael-J1n/Michael-J1n/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Michael-J1n/Michael-J1n/blob/output/github-contribution-grid-snake.svg" />
-  <img src="https://github.com/Michael-J1n/Michael-J1n/blob/output/github-contribution-grid-snake.svg" />
-</picture>
+![github-contribution-grid-snake](https://github.com/Michael-J1n/Michael-J1n/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 Michael-J1n/Michael-J1n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
