@@ -7,11 +7,12 @@
 ### 📈 GitHub Stats
 ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-J1n&show_icons=true&theme=radical)
 
+<h3 align="center">⚡ Favorite Tools & Languages</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Python-181717?style=flat-square&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/-PyTorch-181717?style=flat-square&logo=pytorch&logoColor=ee4c2c">
+  <img src="https://img.shields.io/badge/-C++-181717?style=flat-square&logo=c%2B%2B&logoColor=00599C">
+  <img src="https://img.shields.io/badge/-Java-181717?style=flat-square&logo=java&logoColor=f89820">
 </p>
 
 
