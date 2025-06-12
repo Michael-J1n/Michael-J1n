@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Zhan (Michael) Jin (@Michael-J1n)
-- [Ad space for rent]
-- 📫 How to reach me: jzka1366@outlook.com
+- 🤣 [Ad space for rent]
+- 🤣 How to reach me: Dream message or jzka1366@outlook.com
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I am a silver medalist in the first edition of Internatioinal Olympiad in Artificial Intelligence (IOAI), 2024 in Bulgaria.
+- 🤣 Fun fact: I hate talking about fun fact
 
 <!---
 Michael-J1n/Michael-J1n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
