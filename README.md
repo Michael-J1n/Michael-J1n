@@ -13,9 +13,6 @@
   <img src="https://img.shields.io/badge/-PyTorch-181717?style=flat-square&logo=pytorch&logoColor=ee4c2c">
   <img src="https://img.shields.io/badge/-Java-181717?style=flat-square&logo=java&logoColor=f89820">
 </p>
-
-![github-contribution-grid-snake](https://github.com/Michael-J1n/Michael-J1n/blob/output/github-contribution-grid-snake.svg)
-
 <!---
 Michael-J1n/Michael-J1n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
