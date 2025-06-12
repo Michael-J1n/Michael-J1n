@@ -5,7 +5,6 @@
 -🙃 Fun fact: I hate talking about fun facts  
 
 ### 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-J1n&layout=compact)
 ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-J1n&show_icons=true&theme=radical)
 
 <p align="center">
