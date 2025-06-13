@@ -4,7 +4,7 @@
 -😄 Pronouns: he/him/his  
 -🙃 Fun fact: I hate talking about fun facts  
 
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-J1n&show_icons=true&theme=radical)
+![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-J1n&show_icons=true)
 
 <h3 align="left">⚡ Favorite Tools & Languages</h3>
 <p align="left">
