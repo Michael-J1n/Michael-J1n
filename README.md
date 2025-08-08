@@ -1,10 +1,7 @@
--👋 Hi, I’m Zhan (Michael) Jin (@Michael-J1n)  
--🤣 [Ad space for rent]  
--💤 How to reach me: via dream message or jzka1366@outlook.com  
--😄 Pronouns: he/him/his  
+-👋 Hi, I’m Zhan (Michael) Jin (@Michael-J1n)
+-💤 How to reach me: via dream message or jzka1366@outlook.com
+-😄 Pronouns: he/him/his
 -🙃 Fun fact: I hate talking about fun facts  
-
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-J1n&show_icons=true)
 
 <h3 align="left">⚡ Favorite Tools & Languages</h3>
 <p align="left">
