@@ -1,7 +1,7 @@
 -👋 Hi, I’m Zhan (Michael) Jin (@Michael-J1n)   
 -💤 How to reach me: via dream message or jzka1366@outlook.com   
 -😄 Pronouns: he/him/his   
--🙃 Fun fact: I hate talking about fun facts  
+-🙃 Fun fact: My favorite bird is Oriental Stork!!!
 
 <h3 align="left">⚡ Favorite Tools & Languages</h3>
 <p align="left">
